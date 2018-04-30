@@ -22,3 +22,12 @@ FYI
 HTML FILES ARE IN THE VIEWS DIRECTORY NOT THE DIST.
 STYLESHEETS ARE IN PUBLIC DIRECTORY NOT DIST!
 
+TO PUSH TO GIT:
+IN THE SAME TERMINAL AND CONSTRUCTION DIRECTORY (THIS IS THE MAIN FOLDER)
+RUN:
+1) git init
+2) git add .
+3 git commit -m "stuff you did commit by Joseph"
+4) git push
+
+contact me if anything fails!
