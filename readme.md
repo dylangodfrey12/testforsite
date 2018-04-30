@@ -23,11 +23,12 @@ HTML FILES ARE IN THE VIEWS DIRECTORY NOT THE DIST.
 STYLESHEETS ARE IN PUBLIC DIRECTORY NOT DIST!
 
 TO PUSH TO GIT:
-IN THE SAME TERMINAL AND CONSTRUCTION DIRECTORY (THIS IS THE MAIN FOLDER)
-RUN:
-1) git init
-2) git add .
-3 git commit -m "stuff you did commit by Joseph"
-4) git push
+
+1) In source control on the left handside click the symbol that looks like a node branching to two nodes.
+
+2) select the check mark at the top after adding a descriptive message below that checkmark.
+
+3) in your terminal run: git push
+
 
 contact me if anything fails!
